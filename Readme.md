@@ -1,0 +1,1 @@
+This repo is a place where I will post some example code. Currently all code works in the simulator as well. to use in the simulator, just navigate to the desired folder and type `py robot.py sim` Then, the simulator will launch.

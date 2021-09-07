@@ -1,0 +1,1 @@
+This example shows how to use a smart dashboard object to control the speed of a motor (actually the drivetrain). It also has an example of getting game data from the network tables (We may need this for the color wheel).
